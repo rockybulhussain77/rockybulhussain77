@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rockybulhussain403@gmail.com
+- 📫 How to reach me rockybulhussain403@gmail.com / https://x.com/RockybulHu43922
 
 
 <!---

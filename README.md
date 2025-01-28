@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockybulhussain77
+- 👋 Hi, I’m Rockybul Hussain
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
